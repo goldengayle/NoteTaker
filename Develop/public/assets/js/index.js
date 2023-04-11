@@ -67,6 +67,7 @@ const renderActiveNote = () => {
 };
 
 const handleNoteSave = () => {
+  console.log(noteTitle.value)
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
@@ -181,3 +182,4 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
+
