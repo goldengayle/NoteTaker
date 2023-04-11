@@ -1,11 +1,11 @@
 # NoteTaker (Challenge #11)
 # 
 ## Description
-This project is a notetaker that allows the user to save and delete notes. 
+This project is a notetaker that allows the user to save and delete notes, it has been deployed on Heroku. 
 ## Usage
 AS A USER I want to organize my time by when making a simple task list. 
 <img src="Assets/NoteTakerApp.png" alt="screenshot of application">
-  <a href= "https://drive.google.com/file/d/1mIhwfCKPpSGla_orYhxqc2HyiJb2Qs4o/view"> Link to deployed app </a>
+  <a href= "https://peaceful-shelf-71017.herokuapp.com/notes"> Link to deployed app </a>
 
 
 ## Installation
