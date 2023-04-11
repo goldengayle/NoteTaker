@@ -2,7 +2,7 @@ const express = require('express');
 
 
 const notesRouter = require('./notes');
-const apiRouter= require('./api') 
+
 
 
 const app = express();

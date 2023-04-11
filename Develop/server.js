@@ -5,7 +5,6 @@ const api = require('./routes/index.js');
 
 const PORT = process.env.port || 3001;
 const app = express()
-app.use(clog);
 
 //do i need middleware?
 app.use(express.json());

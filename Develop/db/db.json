@@ -1,11 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Go to the Grocery Store",
+        "text": "Buy Milk!",
+        "id": "243be35a-9df9-4fda-9001-bebf896064fa"
     },
     {
-        "title": "hey",
-        "text": "ruth",
-        "id": "7a12dd89-6107-4e23-9b47-4645b099b4c4"
+        "title": "Make a list",
+        "text": "For the party",
+        "id": "2253a49c-9061-4fd3-b70b-63bea3ac28be"
+    },
+    {
+        "title": "Set alarm",
+        "text": "to go to gym\n",
+        "id": "00e13d74-5116-4683-bc5e-13767b1f5073"
     }
 ]
